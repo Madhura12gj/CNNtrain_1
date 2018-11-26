@@ -1,5 +1,5 @@
 # CNN-1
-CNNtrain_1 is a tensorflow based convolutional neural network.
+CNNtrain_1 is a tensorflow based convolutional neural network and is a part of my work in the 100 days of ML challenge.
 
 Defining terms:
 
